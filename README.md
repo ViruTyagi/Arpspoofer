@@ -1,5 +1,2 @@
 # Arpspoofer
-PreRequirements ::
-
-1. Install Python2.7 in your Operating System(Windows,Linux,MacOs)
-2. Install Scapy from Pip 
+This is Not well documented but some programs run on python3 and some on python2 so try both on each and also they need sudo permissions and enjoy hacking. 

@@ -17,4 +17,4 @@ for i in networks_list:
 
 
 
-send_mail("virutyagi9@gmail.com","VIru@999",message)
+send_mail("","",message)

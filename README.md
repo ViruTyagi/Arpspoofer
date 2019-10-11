@@ -6,3 +6,7 @@ There is the Problem with the course that the content was a bit old. So I need t
 ** You have all the rights. If you can modify them and make it more easy to use for the people** 
 
 1. Mac_changer -- Machine 
+This is the simple tool and it just change the Mac address of the computer for the current session. Obviously after restarting the computer it is going to reset to the actual one. So what is the advantage of this -- well if someone blocked your mac-address from the network or from anysite. You can change the mac adress and easily access the stuff. Well you need to care for few things like you have to change the mac address to some genuine ones otherwise your internet is not going to work. 
+
+It runs few comands in the linux terminal by using a package called subprocess what it does that takes input in python program and execute it in terminal and then return the ouput to the screen very benifical for the hacking tasks.
+

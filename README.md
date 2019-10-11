@@ -10,3 +10,4 @@ This is the simple tool and it just change the Mac address of the computer for t
 
 It runs few comands in the linux terminal by using a package called subprocess what it does that takes input in python program and execute it in terminal and then return the ouput to the screen very benifical for the hacking tasks.
 
+2 - There are few ARP Spoof and Detector tools and they need packet sniffer to actually do what they are build to do. ARP spoof will fool the router that you are the target computer and fool target computer that you are the router so all the packets will we send via your computer and thats how we are going to do the man in the middle attack. I used the Scapy module fo rr
